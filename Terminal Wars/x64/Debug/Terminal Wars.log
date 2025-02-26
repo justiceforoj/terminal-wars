@@ -1,3 +1,6 @@
-﻿  main.cpp
-C:\Users\david\Desktop\source\Terminal Wars\main.cpp(65,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Terminal Wars.vcxproj -> C:\Users\david\Desktop\source\Terminal Wars\x64\Debug\Terminal Wars.exe
+﻿  Grid.cpp
+C:\Users\david\OneDrive\Desktop\source\Terminal Wars\Grid.cpp(12,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Utils.cpp
+  main.cpp
+  Generating Code...
+  Terminal Wars.vcxproj -> C:\Users\david\OneDrive\Desktop\source\Terminal Wars\x64\Debug\Terminal Wars.exe
